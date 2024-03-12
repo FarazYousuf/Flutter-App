@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "countrycode": "PK",
+        "name": "Pakistan",
+        "currency_code": "PKR"
+    },
+
+    {
+        "id": 1,
+        "countrycode": "US",
+        "name": "United States of America",
+        "currency_code": "USD"
+    },
+
+    {
+        "id": 2,
+        "countrycode": "FR",
+        "name": "Europe",
+        "currency_code": "EUR"
+    }
+
+]

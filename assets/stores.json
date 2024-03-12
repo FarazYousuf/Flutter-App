@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Carefour",
+        "city": "Karachi",
+        "address": "Gulshan e Iqbal"
+
+    },
+
+    {
+        "id": 2,
+        "name": "Bin Hashim",
+        "city": "Karachi",
+        "address": "Gulistan e Jahaur"
+        
+    }
+
+]

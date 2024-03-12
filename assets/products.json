@@ -1,0 +1,21 @@
+[ 
+    
+    {
+    "id": 1,
+    "barcode": 1021090,
+    "name": "Chocolate Spread",
+    "brand": "Nutella Ferrero",
+    "price": 1350,
+    "scandate": "12-01-24"
+    },
+
+    {
+    "id": 2,
+    "barcode": 10210230,
+    "name": "Ketchup",
+    "brand": "Dippit",
+    "price": 380,
+    "scan_Date": "12-01-24"
+    }
+
+]
