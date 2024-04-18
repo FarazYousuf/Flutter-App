@@ -1,8 +1,8 @@
 # test2
-
+Author: Faraz Yousuf
 A new Flutter project.
 
-## Getting Started
+## Getting Started with flutter
 
 This project is a starting point for a Flutter application.
 
